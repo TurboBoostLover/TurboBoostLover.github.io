@@ -127,7 +127,7 @@ p {
   background-color: #fff;
 }
 
-.loga {
+.logo {
   margin-top: 15px;
   margin-bottom: 0px;
   -webkit-transition: color 300ms ease;
@@ -138,7 +138,7 @@ p {
   font-weight: 300;
 }
 
-.loga:hover {
+.logo:hover {
   color: #249cff;
 }
 
@@ -652,7 +652,7 @@ p {
     padding-left: 10px;
   }
 
-  .loga {
+  .logo {
     margin-top: 9px;
     font-size: 22px;
   }
