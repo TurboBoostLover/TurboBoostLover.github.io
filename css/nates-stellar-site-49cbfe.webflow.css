@@ -786,6 +786,6 @@ p {
   }
 }
 
-.makewhite {
+#makewhite {
   background-color: white;
 }
